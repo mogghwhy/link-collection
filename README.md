@@ -1,6 +1,7 @@
 # link-collection
 * [WinDbg](#WinDbg)
 * [Garbage Collection](#GC)
+* [Clr](#CLR)
 
 ## WinDbg
 | Name                                                                       | Description                                                                        |
@@ -10,6 +11,7 @@
 | [Traversing the gc heap (and introducing PSSCOR.DLL)](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/traversing-the-gc-heap-and-introducing-psscor-dll) [archive.today](https://archive.ph/iys9H) | mvstanton's WebLog - Article 04/05/2004 |
 | [Some new SOS functions](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/some-new-sos-functions) [archive.today](https://archive.ph/W2fQV) | mvstanton's WebLog - Article 10/11/2005 |
 | [SOS.dll (SOS debugging extension)](https://learn.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension) | |
+| [Debugging Tips: Use windbg as a calculator, a chat client and more](https://www.tessferrandez.com/blog/2006/01/18/debugging-tips-use-windbg-as-a-calculator.html) [archive.today](https://archive.ph/mwpmW) ||
 
 
 ## GC
@@ -20,4 +22,9 @@
 |[.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) [archive.today](https://archive.ph/PrWlh)||
 | [Tools that help diagnose managed memory related issues](https://devblogs.microsoft.com/dotnet/tools-that-help-diagnose-managed-memory-related-issues/) [archive.today](https://archive.ph/fB9jA) | devblogs.microsoft.com article, November 8th, 2004 |
 | [.NET GC Internals](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm) | youtube playlist, .NET GC Internals series explaining a real in-depth knowledge how .NET GC works. |
+| [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/) [archive.today](https://archive.ph/AdujA)| devblogs.microsoft.com article, May 10th, 2021 |
 
+## CLR
+| Name                                                                       | Description                                                                        |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [CLR Generics and code sharing](https://learn.microsoft.com/en-us/archive/blogs/joelpob/clr-generics-and-code-sharing) [archive.today](https://archive.ph/qZMt4) ||
