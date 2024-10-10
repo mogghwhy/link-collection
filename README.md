@@ -32,8 +32,10 @@
 ## Debugging
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-|[Deep .NET Debugging - Tess Ferrandez](https://www.youtube.com/watch?v=S-jiM07X3fs) - youtube video| slides [.Net debugging 2017](https://www.slideshare.net/slideshow/net-debugging-2017/71633740)|
-|[Debugging NET Apps - Tess Ferrandez - NDC Oslo 2021](https://www.youtube.com/watch?v=5LTT8OfcnsM) - youtube video| slides [Debugging .NET apps](https://www.slideshare.net/slideshow/debugging-net-apps/251122931)|
+| [Deep .NET Debugging - Tess Ferrandez](https://www.youtube.com/watch?v=S-jiM07X3fs) - youtube video| slides [.Net debugging 2017](https://www.slideshare.net/slideshow/net-debugging-2017/71633740) |
+| [Debugging NET Apps - Tess Ferrandez - NDC Oslo 2021](https://www.youtube.com/watch?v=5LTT8OfcnsM) - youtube video| slides [Debugging .NET apps](https://www.slideshare.net/slideshow/debugging-net-apps/251122931) |
+| [CSI .NET – Debugging .NET Applications, by Tess Ferrandez-Norlander](https://www.youtube.com/watch?v=z2B8OruMT6s) - youtube video| |
+| [.NET Debugging Techniques from a Real-World Investigation](https://www.youtube.com/watch?v=23E0JVmo9MM) - youtube video ||
 
 
 ## CLR
