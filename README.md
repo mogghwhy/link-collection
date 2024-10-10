@@ -18,5 +18,5 @@
 | [Using GC Efficiently – Part 1](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.org](https://web.archive.org/web/20240620132331/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.today](https://archive.ph/42F7l) | |
 | [Using GC Efficiently – Part 2](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.org](https://web.archive.org/web/20240609085209/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.today](https://archive.ph/NAowO)| |
 |[.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) [archive.today](https://archive.ph/PrWlh)||
-| [Tools that help diagnose managed memory related issues]() [archive.today](https://archive.ph/fB9jA) | devblogs.microsoft.com article, November 8th, 2004 |
+| [Tools that help diagnose managed memory related issues](https://devblogs.microsoft.com/dotnet/tools-that-help-diagnose-managed-memory-related-issues/) [archive.today](https://archive.ph/fB9jA) | devblogs.microsoft.com article, November 8th, 2004 |
 
