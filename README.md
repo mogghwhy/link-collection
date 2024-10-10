@@ -28,3 +28,4 @@
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [CLR Generics and code sharing](https://learn.microsoft.com/en-us/archive/blogs/joelpob/clr-generics-and-code-sharing) [archive.today](https://archive.ph/qZMt4) ||
+| [CLR Inside Out - Memory Usage Auditing For .NET Applications](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/june/memory-usage-auditing-for-net-applications) [archive.today](https://archive.ph/MHEYO)| Article 08/14/2015|
