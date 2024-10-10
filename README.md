@@ -27,6 +27,7 @@
 | [Tools that help diagnose managed memory related issues](https://devblogs.microsoft.com/dotnet/tools-that-help-diagnose-managed-memory-related-issues/) [archive.today](https://archive.ph/fB9jA) | devblogs.microsoft.com article, November 8th, 2004 |
 | [.NET GC Internals](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm) | youtube playlist, .NET GC Internals series explaining a real in-depth knowledge how .NET GC works. |
 | [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/) [archive.today](https://archive.ph/AdujA)| devblogs.microsoft.com article, May 10th, 2021 |
+| [Garbage collection and performance](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/performance) [archive.today](https://archive.ph/CxLSz) | learn.microsoft.com, Article 07/12/2022 |
 
 
 ## Debugging
