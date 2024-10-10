@@ -12,6 +12,8 @@
 | [Some new SOS functions](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/some-new-sos-functions) [archive.today](https://archive.ph/W2fQV) | mvstanton's WebLog - Article 10/11/2005 |
 | [SOS.dll (SOS debugging extension)](https://learn.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension) | |
 | [Debugging Tips: Use windbg as a calculator, a chat client and more](https://www.tessferrandez.com/blog/2006/01/18/debugging-tips-use-windbg-as-a-calculator.html) [archive.today](https://archive.ph/mwpmW) ||
+| [Getting Started with Windbg](https://www.tessferrandez.com/blog/2007/11/19/getting-started-with-windbg.html) [archive.today](https://archive.ph/RmqXw) | Tess Ferrandez's blog post, November 19, 2007, EDIT (30 Sept 2020) |
+| [Getting started with windbg - part II ](https://www.tessferrandez.com/blog/2007/11/26/getting-started-with-windbg-part-ii.html) [archive.today](https://archive.ph/AvBvH) | Tess Ferrandez's blog post, November 26, 2007, Update 2021 |
 
 
 ## GC
