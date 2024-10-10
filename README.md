@@ -37,6 +37,7 @@
 | [CSI .NET – Debugging .NET Applications, by Tess Ferrandez-Norlander](https://www.youtube.com/watch?v=z2B8OruMT6s) - youtube video| slides [CSI .net core - debugging .net applications](https://www.slideshare.net/slideshow/csi-net-core-debugging-net-applications/248330523)|
 | [.NET Debugging Techniques from a Real-World Investigation](https://www.youtube.com/watch?v=23E0JVmo9MM) - youtube video ||
 | [Advanced .NET debugging - Tess Ferrandez-Norlander - NDC London 2022](https://www.youtube.com/watch?v=yA-b-V_9N_E) - youtube video ||
+| [.NET Debugging Labs - Information and setup instructions ](https://www.tessferrandez.com/blog/2008/02/04/debugging-demos-setup-instructions.html) [archive.today](https://archive.ph/PThUn) | Tess Ferrandez's blog |
 
 
 ## CLR
