@@ -1,6 +1,7 @@
 # link-collection
 * [WinDbg](#WinDbg)
 * [Garbage Collection](#GC)
+* [Debugging](#Debugging)
 * [Clr](#CLR)
 
 ## WinDbg
@@ -26,6 +27,13 @@
 | [Tools that help diagnose managed memory related issues](https://devblogs.microsoft.com/dotnet/tools-that-help-diagnose-managed-memory-related-issues/) [archive.today](https://archive.ph/fB9jA) | devblogs.microsoft.com article, November 8th, 2004 |
 | [.NET GC Internals](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm) | youtube playlist, .NET GC Internals series explaining a real in-depth knowledge how .NET GC works. |
 | [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/) [archive.today](https://archive.ph/AdujA)| devblogs.microsoft.com article, May 10th, 2021 |
+
+
+## Debugging
+| Name                                                                       | Description                                                                        |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+|[Deep .NET Debugging - Tess Ferrandez](https://www.youtube.com/watch?v=S-jiM07X3fs)| slides [.Net debugging 2017](https://www.slideshare.net/slideshow/net-debugging-2017/71633740)|
+
 
 ## CLR
 | Name                                                                       | Description                                                                        |
