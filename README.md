@@ -7,7 +7,8 @@
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [WinDBG quick start tutorial](https://codemachine.com/articles/windbg_quickstart.html) [archive.org](http://web.archive.org/web/20240324162937/https://codemachine.com/articles/windbg_quickstart.html) [archive.today](https://archive.ph/RANiR)| |
 | [Common WinDbg Commands (Thematically Grouped)](http://windbg.info/doc/1-common-cmds.html) [archive.org]()| |
-| [Traversing the gc heap (and introducing PSSCOR.DLL)](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/traversing-the-gc-heap-and-introducing-psscor-dll) [archive.today](https://archive.ph/iys9H) ||
+| [Traversing the gc heap (and introducing PSSCOR.DLL)](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/traversing-the-gc-heap-and-introducing-psscor-dll) [archive.today](https://archive.ph/iys9H) | mvstanton's WebLog - Article 04/05/2004 |
+| [](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/some-new-sos-functions) [archive.today](https://archive.ph/W2fQV) | mvstanton's WebLog - Article 10/11/2005 |
 | [SOS.dll (SOS debugging extension)](https://learn.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension) | |
 
 
