@@ -39,10 +39,11 @@
 | [.NET Debugging Techniques from a Real-World Investigation](https://www.youtube.com/watch?v=23E0JVmo9MM) - youtube video ||
 | [Advanced .NET debugging - Tess Ferrandez-Norlander - NDC London 2022](https://www.youtube.com/watch?v=yA-b-V_9N_E) - youtube video ||
 | [.NET Debugging Labs - Information and setup instructions ](https://www.tessferrandez.com/blog/2008/02/04/debugging-demos-setup-instructions.html) [archive.today](https://archive.ph/PThUn) | Tess Ferrandez's blog |
+| [Debugging Managed Code Using the Windows Debugger](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-managed-code) [archive.today](https://archive.ph/PcbOw)| learn.microsoft.com, Article 09/28/2024 |
 
 
 ## CLR
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [CLR Generics and code sharing](https://learn.microsoft.com/en-us/archive/blogs/joelpob/clr-generics-and-code-sharing) [archive.today](https://archive.ph/qZMt4) ||
-| [CLR Inside Out - Memory Usage Auditing For .NET Applications](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/june/memory-usage-auditing-for-net-applications) [archive.today](https://archive.ph/MHEYO)| Article 08/14/2015|
+| [CLR Inside Out - Memory Usage Auditing For .NET Applications](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/june/memory-usage-auditing-for-net-applications) [archive.today](https://archive.ph/MHEYO)| learn.microsoft.com, Article 08/14/2015|
