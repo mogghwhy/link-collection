@@ -14,6 +14,7 @@
 | [Debugging Tips: Use windbg as a calculator, a chat client and more](https://www.tessferrandez.com/blog/2006/01/18/debugging-tips-use-windbg-as-a-calculator.html) [archive.today](https://archive.ph/mwpmW) ||
 | [Getting Started with Windbg](https://www.tessferrandez.com/blog/2007/11/19/getting-started-with-windbg.html) [archive.today](https://archive.ph/RmqXw) | Tess Ferrandez's blog post, November 19, 2007, EDIT (30 Sept 2020) |
 | [Getting started with windbg - part II ](https://www.tessferrandez.com/blog/2007/11/26/getting-started-with-windbg-part-ii.html) [archive.today](https://archive.ph/AvBvH) | Tess Ferrandez's blog post, November 26, 2007, Update 2021 |
+| [Using WinDbg - Advanced commands](https://www.tessferrandez.com/blog/2008/01/23/windbg-advanced-commands.html) [archive.today](https://archive.ph/pcd6W)| Update 2021: This is a re-post of a post from Johan Straarup |
 
 
 ## GC
