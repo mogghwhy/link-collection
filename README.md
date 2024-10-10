@@ -13,6 +13,6 @@
 ## GC
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [Using GC Efficiently – Part 1](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archived](https://web.archive.org/web/20240620132331/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) | |
-| [Using GC Efficiently – Part 2](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archived](https://web.archive.org/web/20240609085209/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) | |
+| [Using GC Efficiently – Part 1](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.org](https://web.archive.org/web/20240620132331/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.today](https://archive.ph/42F7l) | |
+| [Using GC Efficiently – Part 2](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.org](https://web.archive.org/web/20240609085209/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) | |
 
