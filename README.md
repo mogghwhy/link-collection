@@ -40,6 +40,9 @@
 | [Advanced .NET debugging - Tess Ferrandez-Norlander - NDC London 2022](https://www.youtube.com/watch?v=yA-b-V_9N_E) - youtube video ||
 | [.NET Debugging Labs - Information and setup instructions ](https://www.tessferrandez.com/blog/2008/02/04/debugging-demos-setup-instructions.html) [archive.today](https://archive.ph/PThUn) | Tess Ferrandez's blog |
 | [Debugging Managed Code Using the Windows Debugger](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-managed-code) [archive.today](https://archive.ph/PcbOw)| learn.microsoft.com, Article 09/28/2024 |
+| [OutOfMemoryException and Pinning](https://learn.microsoft.com/en-us/archive/blogs/yunjin/outofmemoryexception-and-pinning) [archive.today](https://archive.ph/5eAXI) ||
+| [Figure out variable lifetime using SOS](https://learn.microsoft.com/en-us/archive/blogs/yunjin/figure-out-variable-lifetime-using-sos) [archive.today](https://archive.ph/wXfos) ||
+
 
 
 ## CLR
