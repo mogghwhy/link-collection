@@ -51,6 +51,7 @@
 | [Figure out variable lifetime using SOS](https://learn.microsoft.com/en-us/archive/blogs/yunjin/figure-out-variable-lifetime-using-sos) [archive.today](https://archive.ph/wXfos) ||
 | [My application seems to hang. What do I do? – Part 1](https://devblogs.microsoft.com/dotnet/my-application-seems-to-hang-what-do-i-do-part-1/) [archive.today](https://archive.ph/AoH4f) | devblogs.microsoft.com, September 28th, 2006 |
 | [My application seems to hang. What do I do? – Part 2](https://devblogs.microsoft.com/dotnet/my-application-seems-to-hang-what-do-i-do-part-2/) [archive.today](https://archive.ph/8nky9) | devblogs.microsoft.com, November 14th, 2006 |
+| [Debugging .NET Core memory issues (on Linux) with dotnet dump](https://www.tessferrandez.com/blog/2021/03/18/debugging-a-netcore-memory-issue-with-dotnet-dump.html) [archive.today](https://archive.ph/y232F) | Tess Ferrandez's blog post, March 18, 2021 |
 
 
 
