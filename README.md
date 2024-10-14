@@ -7,6 +7,7 @@
 ## WinDbg
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [What is WinDbg?](https://learn.microsoft.com/en-us/windows-hardware/drivers/debuggercmds/windbg-overview) [archive.today](https://archive.ph/aGsU8)| learn.microsoft.com, Article 08/26/2024 |
 | [Get started with WinDbg (user mode)](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg) [archive.today](https://archive.is/blrZ2)| learn.microsoft.com, Article 12/28/2023 |
 | [WinDBG quick start tutorial](https://codemachine.com/articles/windbg_quickstart.html) [archive.org](http://web.archive.org/web/20240324162937/https://codemachine.com/articles/windbg_quickstart.html) [archive.today](https://archive.ph/RANiR)| |
 | [Common WinDbg Commands (Thematically Grouped)](http://windbg.info/doc/1-common-cmds.html) [archive.today](https://archive.ph/AMJxT)| |
@@ -35,6 +36,9 @@
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [Get started with Windows debugging](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windows-debugging) [archive.today](https://archive.is/7mOG5)| learn.microsoft.com, Article 12/20/2023 |
+| [Debugging Techniques](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-techniques) [archive.today](https://archive.ph/PiJpZ)| learn.microsoft.com, Article 12/15/2021 |
+| [Standard Debugging Techniques](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/standard-debugging-techniques) [archive.today](https://archive.ph/8vQus) | learn.microsoft.com, Article 12/15/2021 |
+| [Specialized Debugging Techniques](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/specialized-debugging-techniques) [archive.today](https://archive.ph/kqkt4) | learn.microsoft.com, Article 05/20/2022 |
 | [Deep .NET Debugging - Tess Ferrandez](https://www.youtube.com/watch?v=S-jiM07X3fs) - youtube video| slides [.Net debugging 2017](https://www.slideshare.net/slideshow/net-debugging-2017/71633740) |
 | [Debugging NET Apps - Tess Ferrandez - NDC Oslo 2021](https://www.youtube.com/watch?v=5LTT8OfcnsM) - youtube video| slides [Debugging .NET apps](https://www.slideshare.net/slideshow/debugging-net-apps/251122931) |
 | [CSI .NET – Debugging .NET Applications, by Tess Ferrandez-Norlander](https://www.youtube.com/watch?v=z2B8OruMT6s) - youtube video| slides [CSI .net core - debugging .net applications](https://www.slideshare.net/slideshow/csi-net-core-debugging-net-applications/248330523)|
