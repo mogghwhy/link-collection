@@ -18,6 +18,7 @@
 | [Getting Started with Windbg](https://www.tessferrandez.com/blog/2007/11/19/getting-started-with-windbg.html) [archive.today](https://archive.ph/RmqXw) | Tess Ferrandez's blog post, November 19, 2007, EDIT (30 Sept 2020) |
 | [Getting started with windbg - part II ](https://www.tessferrandez.com/blog/2007/11/26/getting-started-with-windbg-part-ii.html) [archive.today](https://archive.ph/AvBvH) | Tess Ferrandez's blog post, November 26, 2007, Update 2021 |
 | [Using WinDbg - Advanced commands](https://www.tessferrandez.com/blog/2008/01/23/windbg-advanced-commands.html) [archive.today](https://archive.ph/pcd6W)| Update 2021: This is a re-post of a post from Johan Straarup |
+| [Correlating the output of !eeheap -gc and !address](https://devblogs.microsoft.com/dotnet/correlating-the-output-of-eeheap-gc-and-address/) [archive.today](https://archive.ph/8QIjA) | November 8th, 2006 |
 
 
 ## GC
