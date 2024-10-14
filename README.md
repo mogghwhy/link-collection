@@ -7,6 +7,7 @@
 ## WinDbg
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [Get started with WinDbg (user mode)](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg) [archive.today](https://archive.is/blrZ2)| learn.microsoft.com, Article 12/28/2023 |
 | [WinDBG quick start tutorial](https://codemachine.com/articles/windbg_quickstart.html) [archive.org](http://web.archive.org/web/20240324162937/https://codemachine.com/articles/windbg_quickstart.html) [archive.today](https://archive.ph/RANiR)| |
 | [Common WinDbg Commands (Thematically Grouped)](http://windbg.info/doc/1-common-cmds.html) [archive.today](https://archive.ph/AMJxT)| |
 | [Traversing the gc heap (and introducing PSSCOR.DLL)](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/traversing-the-gc-heap-and-introducing-psscor-dll) [archive.today](https://archive.ph/iys9H) | mvstanton's WebLog - Article 04/05/2004 |
