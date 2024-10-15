@@ -13,6 +13,7 @@
 | [Common WinDbg Commands (Thematically Grouped)](http://windbg.info/doc/1-common-cmds.html) [archive.today](https://archive.ph/AMJxT)| |
 | [CrashMe Application](http://windbg.info/apps/46-crashme.html) [arhive.org](http://web.archive.org/web/20240419221017/http://windbg.info/apps/46-crashme.html) | from http://windbg.info |
 | [WinDbg. From A to Z!](http://www.windbg.info/doc/2-windbg-a-z.html) [archive.org](http://web.archive.org/web/20240423081410/http://www.windbg.info/doc/2-windbg-a-z.html) | from http://windbg.info, [presentation pdf](http://web.archive.org/web/20240411085442/http://windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf) |
+| [Learn WinDbg](http://www.windbg.xyz) [archive.today](https://archive.ph/JkpmO) ||
 | [Traversing the gc heap (and introducing PSSCOR.DLL)](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/traversing-the-gc-heap-and-introducing-psscor-dll) [archive.today](https://archive.ph/iys9H) | mvstanton's WebLog - Article 04/05/2004 |
 | [Some new SOS functions](https://learn.microsoft.com/en-us/archive/blogs/mvstanton/some-new-sos-functions) [archive.today](https://archive.ph/W2fQV) | mvstanton's WebLog - Article 10/11/2005 |
 | [SOS.dll (SOS debugging extension)](https://learn.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension) | |
