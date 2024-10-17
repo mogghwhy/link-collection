@@ -28,6 +28,7 @@
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) [archive.today](https://archive.ph/PrWlh) [archive.org](https://web.archive.org/web/20240913230707/https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) - 13 Sep 2024 ||
+| [Internals of the POH](https://devblogs.microsoft.com/dotnet/internals-of-the-poh/) [archive.org](https://web.archive.org/web/20240607094136/https://devblogs.microsoft.com/dotnet/internals-of-the-poh/) [archive.today](https://archive.ph/9nJXv) | February 27th, 2021 |
 | [Using GC Efficiently – Part 1](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.org](https://web.archive.org/web/20240607094058/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.today](https://archive.ph/42F7l) | June 15th, 2004 |
 | [Using GC Efficiently – Part 2](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.org](https://web.archive.org/web/20240609085207/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.today](https://archive.ph/NAowO)| September 25th, 2004 |
 | [Using GC Efficiently – Part 3](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-3/) [archive.org](https://web.archive.org/web/20240607094156/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-3/) [archive.today](https://archive.ph/65i45)| December 19th, 2004 |
@@ -58,6 +59,7 @@
 | [My application seems to hang. What do I do? – Part 1](https://devblogs.microsoft.com/dotnet/my-application-seems-to-hang-what-do-i-do-part-1/) [archive.today](https://archive.ph/AoH4f) | devblogs.microsoft.com, September 28th, 2006 |
 | [My application seems to hang. What do I do? – Part 2](https://devblogs.microsoft.com/dotnet/my-application-seems-to-hang-what-do-i-do-part-2/) [archive.today](https://archive.ph/8nky9) | devblogs.microsoft.com, November 14th, 2006 |
 | [Debugging .NET Core memory issues (on Linux) with dotnet dump](https://www.tessferrandez.com/blog/2021/03/18/debugging-a-netcore-memory-issue-with-dotnet-dump.html) [archive.today](https://archive.ph/y232F) | Tess Ferrandez's blog post, March 18, 2021 |
+| [.NET Performance - Performance Diagnostics of .NET Applications Using ETW](https://learn.microsoft.com/en-us/archive/msdn-magazine/2010/december/msdn-magazine-net-performance-performance-diagnostics-of-net-applications-using-etw) [archive.org](http://web.archive.org/web/20230608164228/https://learn.microsoft.com/en-us/archive/msdn-magazine/2010/december/msdn-magazine-net-performance-performance-diagnostics-of-net-applications-using-etw) [archive.today](https://archive.ph/RqIyN) | MSDN Magazine December 2010, Volume 25 Number 12 |
 
 
 
