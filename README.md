@@ -36,6 +36,7 @@
 | [.NET GC Internals](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm) | youtube playlist, .NET GC Internals series explaining a real in-depth knowledge how .NET GC works. |
 | [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/) [archive.today](https://archive.ph/AdujA)| devblogs.microsoft.com article, May 10th, 2021 |
 | [Garbage collection and performance](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/performance) [archive.today](https://archive.ph/CxLSz) | learn.microsoft.com, Article 07/12/2022 |
+| [GC Performance Counters](https://devblogs.microsoft.com/dotnet/gc-performance-counters/) [archive.org](https://web.archive.org/web/20051123014042/http://blogs.msdn.com/maoni/archive/2004/06/03/148029.aspx) [archive.today](https://archive.ph/VwLhZ)| posted on Thursday, June 03, 2004 3:46 PM by maoni |
 
 
 ## Debugging
