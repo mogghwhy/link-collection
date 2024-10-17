@@ -28,8 +28,11 @@
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |[.NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md) [archive.today](https://archive.ph/PrWlh)||
-| [Using GC Efficiently – Part 1](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.org](https://web.archive.org/web/20240620132331/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.today](https://archive.ph/42F7l) | |
-| [Using GC Efficiently – Part 2](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.org](https://web.archive.org/web/20240609085209/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.today](https://archive.ph/NAowO)| |
+| [Using GC Efficiently – Part 1](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.org](https://web.archive.org/web/20240607094058/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-1/) [archive.today](https://archive.ph/42F7l) | 
+June 15th, 2004 |
+| [Using GC Efficiently – Part 2](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.org](https://web.archive.org/web/20240609085207/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-2/) [archive.today](https://archive.ph/NAowO)| September 25th, 2004 |
+| [Using GC Efficiently – Part 3](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-3/) [archive.org](https://web.archive.org/web/20240607094156/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-3/) [archive.today](https://archive.ph/65i45)| December 19th, 2004 |
+| [Using GC Efficiently – Part 4](https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-4/) [archive.org](https://web.archive.org/web/20240607094526/https://devblogs.microsoft.com/dotnet/using-gc-efficiently-part-4/) [archive.today](https://archive.ph/wdTGg)| May 6th, 2005 |
 | [Tools that help diagnose managed memory related issues](https://devblogs.microsoft.com/dotnet/tools-that-help-diagnose-managed-memory-related-issues/) [archive.today](https://archive.ph/fB9jA) | devblogs.microsoft.com article, November 8th, 2004 |
 | [.NET GC Internals](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm) | youtube playlist, .NET GC Internals series explaining a real in-depth knowledge how .NET GC works. |
 | [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/) [archive.today](https://archive.ph/AdujA)| devblogs.microsoft.com article, May 10th, 2021 |
@@ -65,3 +68,8 @@
 | [CLR Generics and code sharing](https://learn.microsoft.com/en-us/archive/blogs/joelpob/clr-generics-and-code-sharing) [archive.today](https://archive.ph/qZMt4) ||
 | [CLR Inside Out - Memory Usage Auditing For .NET Applications](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/june/memory-usage-auditing-for-net-applications) [archive.today](https://archive.ph/MHEYO)| learn.microsoft.com, Article 08/14/2015|
 | [.NET Framework Internals: How the CLR Creates Runtime Objects](https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/may/net-framework-internals-how-the-clr-creates-runtime-objects) [archive.today](https://archive.ph/HiIa4) | MSDN Magazine Issues  2005  May |
+
+## MISC
+| Name                                                                       | Description                                                                        |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [How the Clipboard Works, Part 1](https://burrough.org/archives/284) [archive.org](http://web.archive.org/web/20240303100349/https://burrough.org/archives/284) [archive.today](https://archive.ph/yuzLz) | This is an archive post of content written for the NTDebugging Blog on MSDN |
